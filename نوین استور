@@ -3,13 +3,15 @@
     "عکس": "https://s4.uupload.ir/files/save_۲۰۲۱۰۸۲۷_۱۲۵۱۱۸_n5kz.jpg",
     "متن": "اسکچور پرو",
     "لینک": "https://s4.uupload.ir/filelink/7V74GC8CRKwi_0b6b4ab99f/5.0.7_xsa.apk",
-    "دانلود": "کمتر از10 دانلود"
+    "دانلود": "کمتر از10 دانلود",
+    "پکیج": "com.sketchware.remod"
   },
   {
     "عکس": "https://s4.uupload.ir/files/save_۲۰۲۱۰۸۱۳_۱۰۰۶۱۴_yhb8.jpg",
     "متن": "واتساپ",
     "لینک": "https://dl.leanroid.com/app/W-Z/WhatsApp-Messenger-ARM-2.21.16.20.apk",
-    "دانلود": "کمتر از10 دانلود"
+    "دانلود": "کمتر از10 دانلود",
+    "پکیج": "com.whatsapp"
   },
   {
     "عکس": "https://s4.uupload.ir/files/bitmap_(4)_il1j.png",
@@ -22,168 +24,196 @@
     "عکس": "https://s4.uupload.ir/files/save_۲۰۲۱۰۷۲۸_۱۸۰۹۳۵_jh9r.jpg",
     "متن": "اینشات",
     "لینک": "https://www.dl.farsroid.com/ap/InShot-Video-Editor-No-Crop.Music.Cut-1.740.1328(www.farsroid.com).apk",
-    "دانلود": "کمتر از10 دانلود"
+    "دانلود": "کمتر از10 دانلود",
+    "پکیج": "com.camerasideas.instashot"
   },
   {
     "عکس": "https://s4.uupload.ir/files/save_۲۰۲۱۰۷۲۸_۱۷۰۸۵۳_blxl.jpg",
     "متن": "دویو",
     "لینک": "https://www.dl.farsroid.com/ap/Google-Duo-147.0.390231946(www.farsroid.com).apk",
-    "دانلود": "کمتر از10 دانلود"
+    "دانلود": "کمتر از10 دانلود",
+    "پکیج": "com.google.android.apps.tachyon"
   },
   {
     "عکس": "https://s4.uupload.ir/files/save_۲۰۲۱۰۷۲۸_۱۷۰۳۲۶_nk1u.jpg",
     "متن": "گوگل",
     "لینک": "https://www.dl.farsroid.com/ap/Google-Search-12.33.11-Arm64-v8a(www.FarsRoid.com).apk",
-    "دانلود": "کمتر از10 دانلود"
+    "دانلود": "کمتر از10 دانلود",
+    "پکیج": "com.google.android.googlequicksearchbox"
   },
   {
     "عکس": "https://s4.uupload.ir/files/communication-gmail-icon_09ig.png",
     "متن": "جیمیل",
     "لینک": "https://www.dl.farsroid.com/ap/Gmail-2021.08.08.392063719.release(FarsRoid.Com).apk",
-    "دانلود": "کمتر از10 دانلود"
+    "دانلود": "کمتر از10 دانلود",
+    "پکیج": "com.google.android.gm"
   },
   {
     "عکس": "https://s4.uupload.ir/files/insta_s5s.png",
     "متن": "اینستا گرام",
     "لینک": "https://www.dl.farsroid.com/ap/Instagram-201.0.0.26.112+X86(FarsRoid.Com).apk",
-    "دانلود": "کمتر از10 دانلود"
+    "دانلود": "کمتر از10 دانلود",
+    "پکیج": "com.instagram.android"
   },
   {
     "عکس": "https://s4.uupload.ir/files/save_۲۰۲۱۰۷۲۸_۱۸۰۵۱۷_lq6.jpg",
     "متن": "wps",
     "لینک": "https://www.dl.farsroid.com/ap/Kingsoft-Office-14.8.1(FarsRoid.Com).apk",
-    "دانلود": "کمتر از10 دانلود"
+    "دانلود": "کمتر از10 دانلود",
+    "پکیج": "cn.wps.moffice_eng"
   },
   {
     "عکس": "https://s4.uupload.ir/files/save_۲۰۲۱۰۷۲۸_۱۸۰۶۵۶_lh3x.jpg",
     "متن": "لاین",
     "لینک": "https://www.dl.farsroid.com/ap/LINE-Free-Calls-Messages-11.14.3(FarsRoid.Com).apk",
-    "دانلود": "کمتر از10 دانلود"
+    "دانلود": "کمتر از10 دانلود",
+    "پکیج": ""
   },
   {
     "عکس": "https://s4.uupload.ir/files/t3emig5is5751(0)_6249.png",
     "متن": "جی فوتوز",
     "لینک": "https://www.dl.farsroid.com/ap/Google-Photos-5.56.0.392566860+X86_64(www.Farsroid.com).apk",
-    "دانلود": "کمتر از10 دانلود"
+    "دانلود": "کمتر از10 دانلود",
+    "پکیج": "com.google.android.apps.photos"
   },
   {
     "عکس": "https://s4.uupload.ir/files/-(0)_v4jn.png",
     "متن": "ترجمه گوگل",
     "لینک": "https://www.dl.farsroid.com/ap/Google-Translate-6.22.0.05.390264690-X86_64(FarsRoid.Com).apk",
-    "دانلود": "کمتر از10 دانلود"
+    "دانلود": "کمتر از10 دانلود",
+    "پکیج": "com.google.android.apps.translate"
   },
   {
     "عکس": "https://s4.uupload.ir/files/save_۲۰۲۱۰۸۲۹_۱۹۰۶۰۹_yxry.jpg",
     "متن": "جی درایو",
     "لینک": "https://www.dl.farsroid.com/ap/Google-Drive-2.21.310.1.90(www.FarsRoid.com).apk",
-    "دانلود": "کمتر از10 دانلود"
+    "دانلود": "کمتر از10 دانلود",
+    "پکیج": "com.google.android.apps.docs"
   },
   {
     "عکس": "https://s4.uupload.ir/files/com.termux_5e165674-e936-4af2-9e36-95ff8b2e001f_uob2.png",
     "متن": "ترموکس",
     "لینک": "https://www.dl.farsroid.com/ap/Termux-0.114(www.farsroid.com).apk",
-    "دانلود": "کمتر از10 دانلود"
+    "دانلود": "کمتر از10 دانلود",
+    "پکیج": "com.termux"
   },
   {
     "عکس": "https://s4.uupload.ir/files/save_۲۰۲۱۰۸۲۹_۱۹۱۱۳۰_2915.jpg",
     "متن": "aide",
     "لینک": "https://www.dl.farsroid.com/ap/AIDE-Android-IDE-Java-C++3.2.210316(www.FarsRoid.com).apk",
-    "دانلود": "کمتر از10 دانلود"
+    "دانلود": "کمتر از10 دانلود",
+    "پکیج": "com.aide.ui"
   },
   {
     "عکس": "https://s4.uupload.ir/files/save_۲۰۲۱۰۷۲۸_۱۸۰۱۱۲_lda5.jpg",
     "متن": "ویدمیت",
     "لینک": "https://dl.barato.ir/app/Vidmate_4.2315(BaraTo.iR).apk",
-    "دانلود": "کمتر از10 دانلود"
+    "دانلود": "کمتر از10 دانلود",
+    "پکیج": "com.nemo.vidmate"
   },
   {
     "عکس": "https://s4.uupload.ir/files/save_۲۰۲۱۰۷۲۸_۱۸۱۹۱۳_sdpu.jpg",
     "متن": "رار",
     "لینک": "https://www.dl.farsroid.com/ap/RAR-for-Android-6.02+98(www.farsroid.com).apk",
-    "دانلود": "کمتر از10 دانلود"
+    "دانلود": "کمتر از10 دانلود",
+    "پکیج": "com.rarlab.rar"
   },
   {
     "عکس": "https://s4.uupload.ir/files/save_۲۰۲۱۰۸۲۹_۱۹۰۶۰۹_yxry.jpg",
     "متن": "پینترست",
     "لینک": "https://www.dl.farsroid.com/ap/Pinterest-9.28.0(FarsRoid.Com).apk",
-    "دانلود": "کمتر از10 دانلود"
+    "دانلود": "کمتر از10 دانلود",
+    "پکیج": "com.pinterest"
   },
   {
     "عکس": "https://s4.uupload.ir/files/linkedin_94t3.jpg",
     "متن": "لینکداین",
     "لینک": "https://www.dl.farsroid.com/ap/LinkedIn-Jobs-Business-News-Social-Networking-4.1.609(www.farsroid.com).apk",
-    "دانلود": "کمتر از10 دانلود"
+    "دانلود": "کمتر از10 دانلود",
+    "پکیج": "com.linkedin.android"
   },
   {
     "عکس": "https://s4.uupload.ir/files/save_۲۰۲۱۰۷۲۸_۱۸۰۴۴۲_07gf.jpg",
     "متن": "شیریت",
     "لینک": "https://www.dl.farsroid.com/ap/SHAREit-6.1.68(www.farsroid.com).apk",
-    "دانلود": "کمتر از10 دانلود"
+    "دانلود": "کمتر از10 دانلود",
+    "پکیج": "com.lenovo.anyshare.gps"
   },
   {
     "عکس": "https://s4.uupload.ir/files/save_۲۰۲۱۰۷۲۸_۱۷۰۴۴۴_n6sp.jpg",
     "متن": "جی مپس",
     "لینک": "https://www.dl.farsroid.com/ap/Google-Maps-10.83.2(www.FarsRoid.com).apk",
-    "دانلود": "کمتر از10 دانلود"
+    "دانلود": "کمتر از10 دانلود",
+    "پکیج": "com.google.android.apps.maps"
   },
   {
     "عکس": "https://s4.uupload.ir/files/save_۲۰۲۱۰۸۲۹_۱۹۴۶۴۴_n7tu.jpg",
     "متن": "pou",
     "لینک": "https://www.dl.farsroid.com/game/Pou-1.4.81-Mod(www.FarsRoid.com).apk",
-    "دانلود": "کمتر از10 دانلود"
+    "دانلود": "کمتر از10 دانلود",
+    "پکیج": "me.pou.app"
   },
   {
     "عکس": "https://s4.uupload.ir/files/save_۲۰۲۱۰۸۲۹_۲۰۳۴۴۸_25xn.jpg",
     "متن": "soccer stars",
     "لینک": "https://www.dl.farsroid.com/game/Soccer-Stars-31.0.0(www.farsroid.com).apk",
-    "دانلود": "کمتر از10 دانلود"
+    "دانلود": "کمتر از10 دانلود",
+    "پکیج": "com.miniclip.soccerstars"
   },
   {
     "عکس": "https://s4.uupload.ir/files/img_۲۰۲۱۰۸۲۹_۲۱۲۸۳۵_2ob.jpg",
     "متن": "بطری چی!",
     "لینک": "https://s4.uupload.ir/filelink/MyKwttkmoMap_ae94c8ecd3/base_dkh8.bin",
-    "دانلود": "کمتر از10 دانلود"
+    "دانلود": "کمتر از10 دانلود",
+    "پکیج": "com.younesaramian.botrii"
   },
   {
     "عکس": "https://s4.uupload.ir/files/save_۲۰۲۱۰۸۳۰_۱۳۰۲۴۶_0i3u.jpg",
     "متن": "کلش رویال",
     "لینک": "https://www.dl.farsroid.com/game/Clash-Royale-3.6.1+ARM-www.farsroid.com.apk",
-    "دانلود": "کمتر از10 دانلود"
+    "دانلود": "کمتر از10 دانلود",
+    "پکیج": "com.supercell.clashroyale"
   },
   {
     "عکس": "https://s4.uupload.ir/files/img_۲۰۲۱۰۸۲۹_۲۲۰۰۱۰_pxpg.jpg",
     "متن": "iconic",
     "لینک": "https://www.dl.farsroid.com/app/Iconic-Pro-2.1.1(www.Farsroid.com).apk",
-    "دانلود": "کمتر از10 دانلود"
+    "دانلود": "کمتر از10 دانلود",
+    "پکیج": "xeus.iconic"
   },
   {
     "عکس": "https://s4.uupload.ir/files/save_۲۰۲۱۰۸۳۰_۱۳۰۳۴۵_th3y.jpg",
     "متن": "براول استارز",
     "لینک": "https://www.dl.farsroid.com/game/Brawl-Stars-37.238(www.Farsroid.com).apk",
-    "دانلود": "کمتر از10 دانلود"
+    "دانلود": "کمتر از10 دانلود",
+    "پکیج": "com.supercell.brawlstars"
   },
   {
     "عکس": "https://s4.uupload.ir/files/img_۲۰۲۱۰۸۳۰_۲۰۴۳۴۷_b8cs.jpg",
     "متن": "اسکچ هاب",
     "لینک": "https://s4.uupload.ir/filelink/w0glEQr2Ewyj_3a06a45df7/base_elky.apk",
-    "دانلود": "کمتر از10 دانلود"
+    "دانلود": "کمتر از10 دانلود",
+    "پکیج": "in.sketchub.app"
   },
   {
     "عکس": "https://s4.uupload.ir/files/save_۲۰۲۱۰۸۳۰_۲۰۵۴۵۰_pvmg.jpg",
     "متن": "apk editor",
     "لینک": "https://www.dl.farsroid.com/ap/APK-Editor-Pro-1.10.0+20210525-Mod-Dark-X86+X86_64(www.farsroid.com).apk",
-    "دانلود": "کمتر از10 دانلود"
+    "دانلود": "کمتر از10 دانلود",
+    "پکیج": "com.gmail.heagoo.apkeditor.pro"
   },
   {
     "عکس": "https://s4.uupload.ir/files/logo-lg-high-res.fbc7ffbb50fd_mrng.png",
     "متن": "فایرفاکس",
     "لینک": "https://www.dl.farsroid.com/ap/Firefox-Browser-91.3.1-X86(FarsRoid.Com).apk",
-    "دانلود": "کمتر از10 دانلود"
+    "دانلود": "کمتر از10 دانلود",
+    "پکیج": "org.mozilla.firefox"
   },
   {
     "عکس": "https://s4.uupload.ir/files/img_۲۰۲۱۰۸۳۰_۲۳۱۷۴۶_ba1m.jpg",
     "متن": "ایرانی دلاور",
     "لینک": "https://s4.uupload.ir/filelink/r6ZR51KMP7YR_fcd99d63af/irani_94h3.apk",
-    "دانلود": "کمتر از10 دانلود"
+    "دانلود": "کمتر از10 دانلود",
+    "پکیج": "ir.irani.delavar"
   }
 ]
